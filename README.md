@@ -11,16 +11,16 @@ Search and retrieve data from the SQL database using different search options, i
 
 **Setup:**
 Clone this repository to your local machine.
-Install the required dependencies by running pip install -r requirements.txt.
+Install the required dependencies by running "pip install streamlit.txt.
 Obtain a YouTube Data API key from the Google Cloud Console.
 Set up a SQL database (MySQL or PostgreSQL) and configure the connection details in the Streamlit app.
-Run the Streamlit app using the command streamlit run app.py.
+Run the Streamlit app using the command "streamlit run file.py".
 Enter your YouTube API key and channel ID to retrieve and analyze YouTube data.
 
 **Project Structure:**
-app.py: Main Streamlit application code.
-requirements.txt: List of Python dependencies.
-README.md: Project documentation.
+'app.py': Main Streamlit application code.   
+'requirements.txt': List of Python dependencies.    
+'README.md': Project documentation.   
 
 **Usage:**
 Input your YouTube API key and channel ID in the provided fields.
